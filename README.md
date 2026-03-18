@@ -1,4 +1,4 @@
-# Math Department Streamlit Workshop
+# D/Math Streamlit Workshop
 
 Build a live interactive math app in 30 minutes — no web experience needed.
 
