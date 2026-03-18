@@ -50,6 +50,26 @@ All sections are marked with `# STEP N` comments inside `app.py`.
 
 ---
 
+## Lab Activities
+
+After the brief, open a shell file from the `shells/` folder and fill in the blanks.
+Look for `### YOUR CODE HERE ###` and `# FIX-ME:` annotations.
+
+| File | Difficulty | Theme |
+|------|-----------|-------|
+| `shells/activity_1_guided.py` | ★☆☆ Guided | Sine wave explorer — widgets, LaTeX, plot |
+| `shells/activity_2_stats.py` | ★★☆ Intermediate | Statistics dashboard — histogram, metrics, data table |
+| `shells/activity_3_challenge.py` | ★★★ Challenge | Free build — Taylor series, projectile motion, grade curve, or your own idea |
+
+```bash
+# run any shell directly:
+streamlit run shells/activity_1_guided.py
+```
+
+**Reference solution:** `app.py` is the fully-built version — use it when you're stuck.
+
+---
+
 ## Deploying to the web (free)
 
 1. Push your repo to GitHub (public).
